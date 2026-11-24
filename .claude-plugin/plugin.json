@@ -1,0 +1,8 @@
+{
+  "name": "christmas-scene",
+  "version": "0.1.0",
+  "description": "A snowy evergreen night behind the chat, with falling snow and the outside temperature in the top left",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": { "name": "SweetHeartache" }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "claude-christmas-scene",
+  "owner": { "name": "SweetHeartache" },
+  "plugins": [{ "name": "christmas-scene", "source": "./" }]
+}
